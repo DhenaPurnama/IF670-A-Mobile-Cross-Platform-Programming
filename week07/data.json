@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Efri Ramadhan",
+        "nim": "000000666",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "name": "Fikri boss", 
+        "nim": "000000666999", 
+        "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "name": "Axel AI", 
+        "nim": "00000066688", 
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "name": "Abi os", 
+        "nim": "0000006669777", 
+        "image": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "name": "Gilbert bert", 
+        "nim": "00000066555", 
+        "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "name": "Mas Ilham", 
+        "nim": "0000006644", 
+        "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "name": "Reinhard Gay", 
+        "nim": "00000066333", 
+        "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "name": "Tristan Gondrong", 
+        "nim": "0000006622", 
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    }
+]
