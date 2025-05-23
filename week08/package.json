@@ -1,0 +1,29 @@
+{
+  "name": "tugas8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.1.6",
+    "@react-navigation/native-stack": "^7.3.10",
+    "axios": "^1.9.0",
+    "expo": "~53.0.4",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.1",
+    "react-native-safe-area-context": "5.3.0",
+    "react-native-screens": "~4.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/node": "^22.15.3",
+    "typescript": "~5.8.3",
+    "@types/react": "~19.0.10"
+  },
+  "private": true
+}
